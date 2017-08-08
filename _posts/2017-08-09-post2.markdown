@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Blog Post #2"
+title:  "Sprint 0 - Technical Foundations for D365 & Azure"
 date:   2017-08-08 16:01:43 -0700
 categories: Blog Posts
 ---
 
-This is a demo for the standup
