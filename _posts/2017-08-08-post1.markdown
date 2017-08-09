@@ -4,7 +4,7 @@ title:  "Columbia Global Retail Project (GRP)"
 date:   2017-08-08 16:01:43 -0700
 categories: Blog Posts
 ---
-Columbia Sportswear is beginning a transformational journey which will catapult our retail practice and systems forward as a highly competitive, differentiating capability for the company.  We are moving more quickly than ever before to modernize our systems, processes and to bring this vision to life.  Global Solutions Delivery is practicing new Agile patterns for delivery and are relying heavily on the public cloud to power this transformation with a combination of Microsoft Azure services and Dynamics 365.
+Columbia Sportswear is beginning a transformational journey which will catapult our retail practice and systems forward as a highly competitive, differentiating capability for the company.  We are moving more quickly than ever before to modernize our systems, processes and to bring this vision to life.  Global Solutions Delivery is practicing new Agile patterns for delivery and are relying heavily on the public cloud to power this transformation.
 
 We have created an agile team to focus on a few immediate deliverables such as: 
 * API service fabric which will power our next generation integration framework
