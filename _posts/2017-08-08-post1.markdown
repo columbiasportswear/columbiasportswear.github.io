@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Columbia Global Retail Project (GRP)"
+title:  "Columbia Public Cloud"
 date:   2017-08-08 16:01:43 -0700
 categories: Blog Posts
 ---
