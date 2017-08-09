@@ -1,16 +1,2 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-08-09T12:30:25-07:00</updated><id>http://localhost:4000/</id><title type="html">Columbia Sportswear</title><subtitle>Columbia's open source home
-</subtitle><entry><title type="html">Columbia Global Retail Project (GRP)</title><link href="http://localhost:4000/blog/posts/2017/08/08/post1.html" rel="alternate" type="text/html" title="Columbia Global Retail Project (GRP)" /><published>2017-08-08T16:01:43-07:00</published><updated>2017-08-08T16:01:43-07:00</updated><id>http://localhost:4000/blog/posts/2017/08/08/post1</id><content type="html" xml:base="http://localhost:4000/blog/posts/2017/08/08/post1.html">&lt;p&gt;Columbia Sportswear is beginning a transformational journey which will catapult our retail practice and systems forward as a highly competitive, differentiating capability for the company.  We are moving more quickly than ever before to modernize our systems, processes and to bring this vision to life.  Global Solutions Delivery is practicing new Agile patterns for delivery and are relying heavily on the public cloud to power this transformation with a combination of Microsoft Azure services and Dynamics 365.&lt;/p&gt;
-
-&lt;p&gt;We have created an agile team to focus on a few immediate deliverables such as:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;API service fabric which will power our next generation integration framework&lt;/li&gt;
-  &lt;li&gt;Open data platform (ODP) which will become the center of our data marketplace&lt;/li&gt;
-  &lt;li&gt;Release Engineering&lt;/li&gt;
-  &lt;li&gt;Continuous Integration Pipelines&lt;/li&gt;
-  &lt;li&gt;Public Cloud Management&lt;/li&gt;
-  &lt;li&gt;DevOps practices and principles&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;We look forward to sharing more information about journey as we go along.&lt;/p&gt;
-
-&lt;p&gt;Cheers!&lt;/p&gt;</content><author><name></name></author><summary type="html">Columbia Sportswear is beginning a transformational journey which will catapult our retail practice and systems forward as a highly competitive, differentiating capability for the company. We are moving more quickly than ever before to modernize our systems, processes and to bring this vision to life. Global Solutions Delivery is practicing new Agile patterns for delivery and are relying heavily on the public cloud to power this transformation with a combination of Microsoft Azure services and Dynamics 365.</summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-08-09T15:00:52-07:00</updated><id>http://localhost:4000/</id><title type="html">Columbia Sportswear</title><subtitle>Columbia's open source home
+</subtitle><entry><title type="html">Coming Soon</title><link href="http://localhost:4000/blog/posts/2017/08/08/post1.html" rel="alternate" type="text/html" title="Coming Soon" /><published>2017-08-08T16:01:43-07:00</published><updated>2017-08-08T16:01:43-07:00</updated><id>http://localhost:4000/blog/posts/2017/08/08/post1</id><content type="html" xml:base="http://localhost:4000/blog/posts/2017/08/08/post1.html"></content><author><name></name></author><summary type="html"></summary></entry></feed>
